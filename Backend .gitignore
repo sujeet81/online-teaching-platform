@@ -1,0 +1,7 @@
+/target/
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# application secrets
+application-dev.properties
+application-prod.properties
